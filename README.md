@@ -33,11 +33,4 @@ This project is a **full-stack student registration form** built using:
 
 ---
 
-### 📷 Preview
-
-*(Add screenshots or demo GIFs here)*
-
----
-
-### 📁 Folder Structure
 
